@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/mallika-portfolio/static/css/main.aa0d3b14.css",
+    "main.js": "/mallika-portfolio/static/js/main.8907862f.js",
+    "static/js/453.1528419b.chunk.js": "/mallika-portfolio/static/js/453.1528419b.chunk.js",
+    "static/media/profile.jpg": "/mallika-portfolio/static/media/profile.a48877fd26ba2562eba8.jpg",
+    "index.html": "/mallika-portfolio/index.html",
+    "main.aa0d3b14.css.map": "/mallika-portfolio/static/css/main.aa0d3b14.css.map",
+    "main.8907862f.js.map": "/mallika-portfolio/static/js/main.8907862f.js.map",
+    "453.1528419b.chunk.js.map": "/mallika-portfolio/static/js/453.1528419b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aa0d3b14.css",
+    "static/js/main.8907862f.js"
+  ]
+}
